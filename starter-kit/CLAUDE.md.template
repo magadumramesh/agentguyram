@@ -1,0 +1,38 @@
+# [Project name]
+
+[One sentence: what this product does and who it's for.]
+
+## Commands
+- Install: [pnpm install]
+- Dev server: [pnpm dev]
+- Test (all): [pnpm test -- --run]
+- Test (one file): [pnpm test -- --run path/to/file.test.ts]
+- Lint + typecheck: [pnpm lint && pnpm typecheck]
+
+## Structure
+- [src/api/]: [route handlers]
+- [src/lib/]: [shared helpers. Reuse these, don't duplicate them]
+- [src/components/]: [UI components]
+- [tests/]: [mirrors src/]
+
+## Rules
+- Plan first for anything touching more than 2 files. Show me the plan before editing.
+- Match the existing patterns in the file you're editing.
+- Small diffs: one concern per change.
+- No new dependencies without asking.
+- Run the tests before you say something works. Paste the output.
+
+## Never
+- Edit files in [migrations/] or [generated/].
+- Commit `.env` files, keys or secrets.
+- Push to [main]. Work on a branch.
+
+## Definition of done
+- Tests pass (output shown, not just claimed).
+- Lint and typecheck clean.
+- No unrelated files changed.
+- You've told me what you didn't do or weren't sure about.
+
+## Decisions log
+<!-- One line per decision the agent should respect. Newest at the top. -->
+- [2026-10-01]: [We use server actions, not API routes, for form posts.]
