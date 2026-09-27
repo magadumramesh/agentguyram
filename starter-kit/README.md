@@ -12,6 +12,7 @@ This is what you get when you comment **AGENT** on an @agentguyram post.
 | [`verification-checklist.md`](verification-checklist.md) | What to check before you merge agent code | "Verification checklist before you merge" |
 | [`.claude/agents/`](.claude/agents/) | 3 subagents: reviewer, test-writer, researcher | "Subagent recipes" |
 | [`.claude/skills/release-notes/`](.claude/skills/release-notes/SKILL.md) | An example Skill: release notes from git history | "Your first Skill in 10 minutes" |
+| [`advent-24-upgrades.md`](advent-24-upgrades.md) | All 24 Agent Advent upgrades + the setup scorecard | Agent Advent, Dec 1–24 |
 | [`settings.example.json`](settings.example.json) | A safe permissions allowlist + a format-on-edit hook | "Hooks" and "Permissions" |
 
 ## How to use

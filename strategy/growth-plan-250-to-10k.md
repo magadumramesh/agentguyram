@@ -30,7 +30,7 @@ You need about 9,750 new followers in 90 days, which is about **110 per day** on
 - So you need about **1.5–3M non-follower views** across the quarter.
 - In practice that means **~2–4 breakout Reels (100K–500K views)** plus a steady base of 5–20K-view Reels.
 
-You can't get there with 1 post/day of carousels. You can get there with **5 Reels a week, 3 carousels a week, and aggressive iteration on whatever hits.**
+You can't get there with 1 post/day of carousels. You can get there with **4 Reels and 3 carousels a week (one post a day), plus aggressive iteration on whatever hits.**
 
 **Milestones (so you know by week 4 if you're on track):**
 
@@ -103,7 +103,7 @@ Formula: **outcome first → the prompt/setup → the result → the lesson.**
 | Thu | Carousel: Anatomy of an Agent | Deeper explainer |
 | Fri | Reel: Watch it work | |
 | Sat | Reel: remix of the week's best performer | New hook, same idea |
-| Sun | Carousel: "This week in agents" roundup | Very shareable, easy to make |
+| Sun | Carousel: Sunday Cheat Sheet | The save magnet. News roundups go in Stories instead |
 
 Plus **daily Stories**: 3–5 frames (behind the scenes, polls, "which should I build next?"). Stories keep existing followers warm and generate the two-way conversation signal.
 
@@ -168,7 +168,7 @@ Plus **daily Stories**: 3–5 frames (behind the scenes, polls, "which should I 
 - **Target:** 1 Reel over 100K views · 3,500–4,000 followers
 
 ### Phase 3: Scale what works (Weeks 9–13, Nov 23 – Dec 27)
-- [ ] Go to 7 Reels/week if Phase 2 revealed a repeatable format
+- [ ] Swap a carousel slot for a 5th Reel if Phase 2 revealed a repeatable Reel format
 - [ ] "30 days of agents" or similar challenge series for December (a finite series drives follows: "follow so you don't miss Day 12")
 - [ ] Year-end tentpoles: "Top 10 agent moments of 2026", "My agent stack for 2027". These are very shareable.
 - [ ] Update Starter Kit v2 using the questions from your DMs
@@ -238,6 +238,11 @@ strategy/   growth plan, weekly tracker, collab list
 scripts/    Reel scripts + carousel copy, one file per post
 starter-kit/  the free lead magnet (CLAUDE.md template, skills, checklists)
 ```
+
+---
+
+## 13. The full 91-day content
+Every day is written out in [`content/`](../content/README.md): the [calendar](../content/CALENDAR.md), the [recording list](../content/RECORDING.md), and the free [Agent Starter Kit](../starter-kit/README.md) behind the "Comment AGENT" CTA.
 
 ---
 
